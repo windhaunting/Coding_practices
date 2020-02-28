@@ -1,3 +1,3 @@
-MY Coding Practice Summary
+My Coding Practice Summary
 
 Category as in the folders
